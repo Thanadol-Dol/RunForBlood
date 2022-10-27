@@ -1,3 +1,3 @@
 # RunForBlood
 
-Endless Runner Game Made For Brand Young Blood Campaign 2022
+Endless Runner Game ผลงานส่งเข้าประกวดโครงการ Brand Young Blood Campaign ปี 2022
